@@ -1,4 +1,4 @@
-# eds124brportfolio
+# EDS 124 BR Portfolio
 
 Explaining my Alonzo House Code
 https://youtu.be/JyfliokO8f4
