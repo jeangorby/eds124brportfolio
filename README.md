@@ -14,3 +14,8 @@ Scratching the Surface of Repeats
 https://youtu.be/hKs1RZ5mFLI
 
 [![scratch](/images/scratch.png)](https://youtu.be/hKs1RZ5mFLI)
+
+Using Nested Loops to Draw an Octagon
+https://youtu.be/lO8yJiaBhT4
+
+[![nest](/images/nest.png)](https://youtu.be/lO8yJiaBhT4)
