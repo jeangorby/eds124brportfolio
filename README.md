@@ -19,3 +19,8 @@ Using Nested Loops to Draw an Octagon
 https://youtu.be/lO8yJiaBhT4
 
 [![nest](/images/nest.png)](https://youtu.be/lO8yJiaBhT4)
+
+Allowing to Events to Dictate Game Flow
+https://youtu.be/wI1AOCw_gqk
+
+[![events](/images/events.png)](https://youtu.be/wI1AOCw_gqk)
