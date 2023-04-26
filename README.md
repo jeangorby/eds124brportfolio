@@ -24,3 +24,8 @@ Allowing to Events to Dictate Game Flow
 https://youtu.be/wI1AOCw_gqk
 
 [![events](/images/events.png)](https://youtu.be/wI1AOCw_gqk)
+
+Using Variables to Draw Shapes
+https://youtu.be/14jdI9Ba9Bg
+
+[![shape](/images/shape.png)](https://youtu.be/14jdI9Ba9Bg)
