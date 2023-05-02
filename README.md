@@ -29,3 +29,7 @@ Using Variables to Draw Shapes
 https://youtu.be/14jdI9Ba9Bg
 
 [![shape](/images/shape.png)](https://youtu.be/14jdI9Ba9Bg)
+
+Using Conditional Loops to Create a Ball Game
+https://youtu.be/6W9hUtkryEY
+[![ball](/images/ball.png)](https://youtu.be/6W9hUtkryEY)
