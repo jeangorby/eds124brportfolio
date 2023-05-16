@@ -37,3 +37,7 @@ https://youtu.be/6W9hUtkryEY
 Using If-Else Statements to Create a Dart Game
 https://youtu.be/QjW-ZIE0OGk
 [![dart](/images/dart.png)](https://youtu.be/QjW-ZIE0OGk)
+
+Using Nested If-Else to Make Decisions
+https://youtu.be/cRmyVIBIMvs
+[![swim](/images/swim.png)](https://youtu.be/cRmyVIBIMvs)
