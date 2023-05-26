@@ -41,3 +41,7 @@ https://youtu.be/QjW-ZIE0OGk
 Using Nested If-Else to Make Decisions
 https://youtu.be/cRmyVIBIMvs
 [![swim](/images/swim.png)](https://youtu.be/cRmyVIBIMvs)
+
+Using Compound Conditionals to Find Treasure
+https://youtu.be/AwNaQ3KV0GU
+[![treasure](/images/treasure.png)](https://youtu.be/AwNaQ3KV0GU)
