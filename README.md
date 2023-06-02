@@ -45,3 +45,7 @@ https://youtu.be/cRmyVIBIMvs
 Using Compound Conditionals to Find Treasure
 https://youtu.be/AwNaQ3KV0GU
 [![treasure](/images/treasure.png)](https://youtu.be/AwNaQ3KV0GU)
+
+Painting a Picture with Abstraction
+https://youtu.be/T3TiIm8j_HA
+[![paint](/images/paint.png)](https://youtu.be/T3TiIm8j_HA)
