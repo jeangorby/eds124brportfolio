@@ -49,3 +49,7 @@ https://youtu.be/AwNaQ3KV0GU
 Painting a Picture with Abstraction
 https://youtu.be/T3TiIm8j_HA
 [![paint](/images/paint.png)](https://youtu.be/T3TiIm8j_HA)
+
+Filtering Countries by First Letter using Lists
+https://youtu.be/Qt3tyv1K3Ew
+[![country](/images/country.png)](https://youtu.be/Qt3tyv1K3Ew)
